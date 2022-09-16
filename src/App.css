@@ -7,6 +7,15 @@ body{
     display: flex;
     flex-direction: column;
 }
+.edit{
+    color: dodgerblue;
+    font-weight: bold;
+}
+
+.delete{
+    color: red;
+    font-weight: bold;
+}
 .todoCreateForm{
     display: flex;
     gap: 5px;
